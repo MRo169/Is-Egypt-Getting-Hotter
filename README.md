@@ -3,10 +3,11 @@
 ## 📊 Project Overview
 This project presents a comprehensive, interactive data analysis dashboard built using **Microsoft Power BI** and powered by **NASA POWER** climate data (2000–2024). It investigates temperature trends across Egypt's 27 governorates, compares local warming rates with global capital cities, evaluates extreme heat events, and provides a predictive temperature outlook for 2035 using Python models.
 
-> **💡 Note for Reviewers (Interactive Experience):** 
-> Due to organizational restrictions on Power BI Public Web Publishing, the full interactive dashboard is provided as a native Power BI file (`project Hot.pbix`) in this repository. 
-> **To explore all interactive features (dynamic filters, cross-highlighting, custom tooltips, and multi-page navigation), please download the `project Hot.pbix` file and open it using Power BI Desktop.**
-
+> *
+> > **💡 Note for Reviewers (Interactive Experience):** 
+> Due to organizational restrictions on Power BI Public Web Publishing, the full interactive dashboard is provided as a native Power BI file in this repository. 
+> 👉 **[Click here to download the interactive Power BI file (`project Hot.pbix`)](project%20Hot.pbix)** and open it using Power BI Desktop to explore all dynamic filters, cross-highlighting, and custom tooltips.
+> > 
 ---
 
 ## ✨ Key Interactive Features & Dashboard Structure
