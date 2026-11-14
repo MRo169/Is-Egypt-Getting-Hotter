@@ -23,25 +23,25 @@ This project presents a comprehensive, interactive data analysis dashboard built
 ## 🖼️ Dashboard Preview & Pages
 
 ### 1. Home Dashboard
-![Home Page](page1.jpg)
+<img src="page 1.jpg" width="100%">
 
 ### 2. Egypt Temperature (Annual Trend)
-![Egypt Temperature](page2.jpg)
+<img src="page 2.jpg" width="100%">
 
 ### 3. Comparison (Egypt vs. World & Data Sources)
-![Comparison](page3.jpg)
+<img src="page 3.jpg" width="100%">
 
 ### 4. Governorates Analysis
-![Governorates](page4.jpg)
+<img src="page 4.jpg" width="100%">
 
 ### 5. Extreme Heat Trends
-![Extreme Heat](page5.jpg)
+<img src="page 5.jpg" width="100%">
 
 ### 6. 2035 Forecast Outlook
-![Forecast](page6.jpg)
+<img src="page 6.jpg" width="100%">
 
 ### 7. Summary & Key Findings
-![Summary](page7.jpg)
+<img src="page 7.jpg" width="100%">
 
 ---
 
